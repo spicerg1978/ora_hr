@@ -10,7 +10,7 @@
 			<n0:source><![CDATA[<SEQUENCE xmlns="http://xmlns.oracle.com/ku" version="1.0">
    <SCHEMA>HR</SCHEMA>
    <NAME>LOCATIONS_SEQ</NAME>
-   <START_WITH>3300</START_WITH>
+   <START_WITH>1</START_WITH>
    <INCREMENT>100</INCREMENT>
    <MINVALUE>1</MINVALUE>
    <MAXVALUE>9900</MAXVALUE>
